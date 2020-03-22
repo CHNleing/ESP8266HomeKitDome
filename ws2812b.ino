@@ -5,9 +5,8 @@
    Setup code: 336-85-553
    WS2812B (DATA) Connect to GPIO3 of ESP-01S.
    Button to connect GPIO0 of ESP-01S
-    git:https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266
-    Created on: 2020-02-08
-        Author: Mixiaoxiao (Wang Bin)
+    Created on: 2020-03-22
+        Author: Leing
 */
 
 #include <Arduino.h>
