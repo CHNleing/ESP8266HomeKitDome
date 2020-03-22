@@ -12,7 +12,7 @@ Enjoy "one-click" production and work hard to release Dome & firmware for variou
 
 #### Effect map
 
-
+![Effect map](https://raw.githubusercontent.com/CHNleing/ESP8266HomeKitDome/master/68747470733a2f2f7261772e6769746875622e636f6d2f4d697869616f7869616f2f41726475696e6f2d486f6d654b69742d455350383236362f6d61737465722f6578747261732f707265766965772e6a7067.jpeg)
 
 #### Coming soon
 
