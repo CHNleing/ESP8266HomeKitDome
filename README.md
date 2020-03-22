@@ -1,5 +1,7 @@
 # Apple IoT device based on ESP8266 chip and HomeKit protocol
 
+   Setup code: 336-85-553
+
 ESP8266-01S controls WS2812B production atmosphere light
 linux download command
 
