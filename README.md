@@ -20,7 +20,7 @@ Enjoy "one-click" production and work hard to release Dome & firmware for variou
 
 #### Dmoe list
 
-- XXXXX
+- [WS2812B Light strip](https://github.com/CHNleing/ESP8266HomeKitDome/tree/WS2812B_Color_LED)
 
 #### Thanks
 
